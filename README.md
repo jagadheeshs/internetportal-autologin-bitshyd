@@ -10,7 +10,7 @@ This script provides hassle-free internet connectivity when using remote access 
 2. Navigate to the downloaded directory in your terminal.
 3. Edit the script `auto_login.py` and replace `USERNAME` and `PASSWORD` with your BITS-Hyderabad credentials.
 4. Save the changes to `auto_login.py`.
-5. Run the script using the command `python login.py`.
+5. Run the script using the command `python auto_login.py`.
 
 The script will automatically login to the BITS-Hyderabad internet portal and maintain a continuous connection.
 
